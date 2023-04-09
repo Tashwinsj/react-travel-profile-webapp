@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cistup-round1/static/css/main.b45475f0.css",
+    "main.js": "/cistup-round1/static/js/main.40a590aa.js",
+    "static/js/787.ec704a7a.chunk.js": "/cistup-round1/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/cistup-round1/index.html",
+    "main.b45475f0.css.map": "/cistup-round1/static/css/main.b45475f0.css.map",
+    "main.40a590aa.js.map": "/cistup-round1/static/js/main.40a590aa.js.map",
+    "787.ec704a7a.chunk.js.map": "/cistup-round1/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45475f0.css",
+    "static/js/main.40a590aa.js"
+  ]
+}
